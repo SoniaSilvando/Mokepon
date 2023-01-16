@@ -7,6 +7,8 @@ const sectionseleccionarMascota = document.getElementById(
   "seleccionar-mascota"
 );
 
+// actiualizacion para probar commit
+
 const spanmascota_jugador = document.getElementById("mascota_jugador");
 const spanmascota_Enemigo = document.getElementById("mascota_enemigo");
 const spanvidasJugador = document.getElementById("vidas_jugador");
